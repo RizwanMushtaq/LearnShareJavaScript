@@ -1,1 +1,1 @@
-# LearnShareJavaScript
+# Welcome to Learn & Share JavaScript
